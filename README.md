@@ -6,8 +6,8 @@ This is a simple website project for showing how to use GIT and GITHUB together.
 
 Sample website with plenty of files for demos
 
-##Introduction
+## Introduction
 
-Covering topics such as Merging, Comparing, and Rebasing.
+This example is to show different parts of the git repository and various commands using web project.
 
-##How to Contribute
+## How to Contribute
