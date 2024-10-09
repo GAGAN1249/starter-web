@@ -21,4 +21,4 @@ Please fork this repository and then issue PULL requests for review.
 
 2014 GIT.training
 
-This is for the rebasing example
+This is for the rebasing example.More changes from myfeature branch too.
