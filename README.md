@@ -20,3 +20,5 @@ Please fork this repository and then issue PULL requests for review.
 ##CopyRight
 
 2014 GIT.training
+
+This is for the rebasing example
