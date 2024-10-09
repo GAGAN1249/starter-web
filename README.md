@@ -13,6 +13,10 @@ This example is to show different parts of the git repository and various comman
 
 Deployment can be done on local or any web server required.
 
+##How to contribute
+
+Please fork this repository and then issue PULL requests for review.
+
 ##CopyRight
 
 2014 GIT.training
