@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gagan GV    gvgagan.training
 
 # THANKS
 
