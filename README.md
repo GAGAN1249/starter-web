@@ -12,3 +12,7 @@ This example is to show different parts of the git repository and various comman
 ## Deployment
 
 Deployment can be done on local or any web server required.
+
+##CopyRight
+
+2014 GIT.training
